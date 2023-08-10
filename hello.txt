@@ -17,15 +17,5 @@ hello git hello vim
 hello git hello vim
 hello git hello vim
 hello git hello vim
-nihao  
-nihao 
-nihao 
-nihao 
-nihao 
-nihao 
-nihao 
-nihao 
-nihao 
-nihao
 master
 hot-fix
